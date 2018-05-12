@@ -1,0 +1,26 @@
+_repo: Lady-Luck_26165
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26165-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wiley, Hugh
+    birthdate: 1884
+    gutenberg_agent_id: '31841'
+    url: http://www.gutenberg.org/2009/agents/31841
+description: ''
+gutenberg_issued: '2008-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26165'
+  lccn: '21020187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'African Americans -- Fiction'
+title: Lady Luck
+url: http://www.gutenberg.org/ebooks/26165
